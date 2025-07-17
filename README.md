@@ -18,6 +18,8 @@ This is a Streamlit web app that allows users to upload a PDF document and ask q
 
 ## 📸 App Preview
 
+![App_UI](images/app_UI)
+
 > *(Screenshots placed in `/images` folder – update with your own)*
 
 ---
